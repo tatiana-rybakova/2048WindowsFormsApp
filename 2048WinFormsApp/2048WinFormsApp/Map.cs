@@ -4,7 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _2048ClassLibrary
+namespace _2048WinFormsApp
 {
     public class Map
     {

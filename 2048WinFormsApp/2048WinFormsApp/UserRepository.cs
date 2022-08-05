@@ -1,7 +1,6 @@
-﻿
-using Newtonsoft.Json;
+﻿using Newtonsoft.Json;
 
-namespace _2048ClassLibrary
+namespace _2048WinFormsApp
 {
     public class UserRepository
     {

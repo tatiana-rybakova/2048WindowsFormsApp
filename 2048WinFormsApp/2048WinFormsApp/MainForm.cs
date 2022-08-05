@@ -1,6 +1,4 @@
-﻿using _2048ClassLibrary;
-
-namespace _2048WinFormsApp
+﻿namespace _2048WinFormsApp
 {
     public partial class MainForm : Form
     {
